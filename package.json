@@ -1,0 +1,23 @@
+{
+  "name": "appaneena",
+  "version": "1.0.0",
+  "description": "This is used to help CRM coders",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SujithOnWeb/GitAppNeena.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SujithOnWeb/GitAppNeena/issues"
+  },
+  "homepage": "https://github.com/SujithOnWeb/GitAppNeena#readme",
+  "dependencies": {
+    "botbuilder": "^3.7.0",
+    "restify": "^4.3.0"
+  }
+}
