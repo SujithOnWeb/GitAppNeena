@@ -11,8 +11,8 @@ var connector = new botbuilder.ChatConnector({
     appPassword: process.env.MICROSOFT_APP_PASSWORD
 });*/
 var connector = new botbuilder.ChatConnector({
-    appId: "8567d85d-df78-4db2-9de5-b4a175c0df21",
-    appPassword: "6vZN3HG88nWPjTzicX9VEZN"
+    appId: "044ad075-a416-4f9d-9c1e-15a2051b0251",
+    appPassword: "q1nTuhsggLOiVxGp3Y82fbk"
 });
 
 
